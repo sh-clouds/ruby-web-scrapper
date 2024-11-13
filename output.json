@@ -1,0 +1,52 @@
+[
+  {
+    "image": "https://brightdata.com/use-cases/ecommerce",
+    "url": "https://brightdata.com/wp-content/uploads/2022/07/E_commerce.svg",
+    "name": "eCommerce"
+  },
+  {
+    "image": "https://brightdata.com/use-cases/social-media-for-marketing",
+    "url": "https://brightdata.com/wp-content/uploads/2022/07/Social_Media_for_Marketing.svg",
+    "name": "Social Media for Marketing"
+  },
+  {
+    "image": "https://brightdata.com/use-cases/real-estate",
+    "url": "https://brightdata.com/wp-content/uploads/2023/02/real_estate-1.svg",
+    "name": "Real Estate"
+  },
+  {
+    "image": "https://brightdata.com/use-cases/adtech",
+    "url": "https://brightdata.com/wp-content/uploads/2022/07/Ad_Tech.svg",
+    "name": "Ad Tech"
+  },
+  {
+    "image": "https://brightdata.com/use-cases/serp",
+    "url": "https://brightdata.com/wp-content/uploads/2022/07/Search_Engine_Results_Crawling.svg",
+    "name": "SERP & SEO"
+  },
+  {
+    "image": "https://brightdata.com/use-cases/market-research",
+    "url": "https://brightdata.com/wp-content/uploads/2022/07/Market_Research.svg",
+    "name": "Market Research"
+  },
+  {
+    "image": "https://brightdata.com/use-cases/travel",
+    "url": "https://brightdata.com/wp-content/uploads/2022/07/Travel.svg",
+    "name": "Travel"
+  },
+  {
+    "image": "https://brightdata.com/use-cases/financial",
+    "url": "https://brightdata.com/wp-content/uploads/2022/07/Financial_Services_Data.svg",
+    "name": "Financial Services Data"
+  },
+  {
+    "image": "https://brightdata.com/use-cases/data-security",
+    "url": "https://brightdata.com/wp-content/uploads/2023/11/data_security.svg",
+    "name": "Data Security"
+  },
+  {
+    "image": "https://brightdata.com/use-cases/data-for-ai",
+    "url": "https://brightdata.com/wp-content/uploads/2023/11/data-for-ai_on_white.svg",
+    "name": "Data for AI"
+  }
+]
